@@ -1,4 +1,15 @@
+
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Darkforce" alt="Darkforce112" />
+
+👋 Hey there, I'm <a href="https://github.com/Darkforce112">@Darkforce112</a> - a tech enthusiast
+
+👀 I'm always trying to learn new web development skills to stay up-to-date.
+
+☑️ Seeking opportunities to collaborate on web development or open-source projects.
+
+
+<br>
+<hr>
 
 <div >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Student+(From+Jammu)+" alt="👋 Hi, I’m Student (From Jammu) " />

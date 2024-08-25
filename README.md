@@ -1,16 +1,13 @@
-## Hi there 👋
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7170E&width=435&lines=Darkforce)
+<div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7170E&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Student+(From+Jammu)" alt="Typing SVG" />
+</div>
 
-<!--
-**Darkforce112/Darkforce112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7170E&background=0A000000&center=true&width=435&lines=Darkforce112;Always+Learning+new+things;Skills+-+Wordpress+%2C+C+" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="align="center"">
+<img src="https://streak-stats.demolab.com?user=Darkforce112&theme=youtube-dark&border_radius=10" alt="GitHub Streak" />
+</p>

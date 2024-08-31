@@ -23,3 +23,10 @@
 <p>
 <img src="https://streak-stats.demolab.com?user=Darkforce112&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 </p>
+<hr>
+<br>
+<h2 style="text-align:center;">My Wordpress Project</h2>
+<ul>
+<li><a href="https://codingschool.rf.gd/">CodingSchool</a></li>
+<li><a href="http://book.great-site.net/">Books</a></li>
+</ul>

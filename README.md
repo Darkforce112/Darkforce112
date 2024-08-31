@@ -27,6 +27,6 @@
 <br>
 <h2 style="text-align:center;">My Wordpress Project</h2>
 <ul>
-<li><a href="https://codingschool.rf.gd/">CodingSchool</a></li>
-<li><a href="http://book.great-site.net/">Books</a></li>
+<li><a href="https://codingschool.rf.gd/"  target="_blank">CodingSchool</a></li>
+<li><a href="http://book.great-site.net/" target="_blank">Books</a></li>
 </ul>

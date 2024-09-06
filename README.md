@@ -21,7 +21,7 @@
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com?user=Darkforce112&theme=merko&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Darkforce112&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 <hr>
 <br>

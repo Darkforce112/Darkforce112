@@ -6,9 +6,11 @@
 👀 I'm always trying to learn new web development skills to stay up-to-date.
 
 ☑️ Seeking opportunities to collaborate on web development or open-source projects.
+<h2 style="text-align:center;">My Portfolio </h2>
+<ul>
+<li><a   target="_blank" href="https://sharmaamit.42web.io/" >My Portfolio</a></li>
+</ul>
 
-
-<br>
 <hr>
 
 <div >
@@ -30,3 +32,4 @@
 <li><a   target="_blank" href="https://codingschool.rf.gd/" >CodingSchool</a></li>
 <li><a  target="_blank"  href="http://book.great-site.net/">Books</a></li>
 </ul>
+

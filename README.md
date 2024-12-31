@@ -53,7 +53,6 @@ Thank you for visiting my GitHub! Let's connect and collaborate on exciting proj
 
 
 # <center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Darkforce" alt="Darkforce112" /></center>
-
 Welcome to my GitHub profile! I'm currently a student at **Government College of Engineering and Technology, Jammu (GCET Jammu)**. I'm passionate about web technologies and enjoy coding and exploring new tech. Below, you can find more about my skills, projects, and tools I use to get things done.
 
 👋 Hey there, I'm <a href="https://github.com/Darkforce112">@Darkforce112</a> - a tech enthusiast
@@ -66,13 +65,9 @@ Welcome to my GitHub profile! I'm currently a student at **Government College of
 <hr>
 ## 🚀 Skills
 Here are some of the technologies and languages I work with:
-
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=wordpress,c,cpp,html,css,bootstrap,javascript,php,mysql&perline=16" alt="Languages" />
 </p>
 
 <details>

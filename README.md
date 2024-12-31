@@ -70,30 +70,15 @@ Here are some of the technologies and languages I work with:
   <img src="https://skillicons.dev/icons?i=wordpress,c,cpp,html,css,bootstrap,javascript,php,mysql&perline=16" alt="Languages" />
 </p>
 
-<details>
-  <summary><strong>📂 Project and Tools</strong></summary>
-  
-  ### Project
-  - [**Web Clusters**](https://webclusters.netlify.app) : A website showcasing my Projects and work.
-
-  ### ⚙️ Things I Use to Get Stuff Done
-  - **OS**: Windows 11
-  - **Laptop**: HP
-  - **Code Editor**: VSCode
-</details>
-<details>
-  <summary><strong>📊 GitHub Stats</strong></summary>
-
-  <div align="center">
-  
-  ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkforce112&show_icons=true&theme=radical)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkforce112&layout=compact&theme=radical)](https://github.com/darkforce112)
-
-  </div>
-</details>
 <hr>
 
-<p>
-<img src="https://streak-stats.demolab.com?user=Darkforce112&theme=dark&border_radius=10" alt="GitHub Streak"/></a>
-</p>
+  ### 📂 Project
+  - [**Web Clusters**](https://webclusters.netlify.app) : A website showcasing my Projects and work.
+
+<hr>
+  <div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=darkforce112&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  </div>
+

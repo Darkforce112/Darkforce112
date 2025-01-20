@@ -76,9 +76,35 @@ Here are some of the technologies and languages I work with:
   - [**Web Clusters**](https://webclusters.netlify.app) : A website showcasing my Projects and work.
 
 <hr>
-  <div align="center">
+ 
+<p align="center"><b>Profile Visitors</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/darkforce112/count.svg" alt="visitor badge"/></p>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+  <summary>📊 <b>Github Readme Stats</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/darkforce112">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=darkforce112&theme=gotham&hide_border=true&include_all_commits=false&count_private=false">
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>🏆 <b>Github Profile Trophy</b></summary>
+ <br />
+ <p align="center">
+	 <a href="#">
+   <img src="https://github-profile-trophy.vercel.app/?username=darkforce112&column=8&theme=darkhub"/>
+  </a>
+ </p>
+</details>
+<!-- <details>
+   <div align="center">
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=darkforce112&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darkforce112&theme=dark&date_format=j%20M%5B%20Y%5D)]
 
   </div>
-
+</details> -->
